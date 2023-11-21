@@ -1,8 +1,8 @@
-# code-events/pyprojecttoml.template
+# pyprojecttoml.template
 #
 # This file is the template for pythoneda-shared-artifact/code-events's pyproject.toml
 #
-# Copyright (C) 2023-today rydnr's pythoneda-shared-artifact/code-events-artifact
+# Copyright (C) 2023-today rydnr's pythoneda-shared-artifact-def/code-events
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
