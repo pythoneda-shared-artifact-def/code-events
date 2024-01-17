@@ -29,7 +29,7 @@ packages = [{include = "@package@"}]
 python = "^@pythonMajorMinorVersion@"
 pythoneda-shared-code-requests-shared = "^@pythonedaSharedCodeRequestsSharedVersion@"
 pythoneda-shared-code-requests-events = "^@pythonedaSharedCodeRequestsEventsVersion@"
-pythoneda-shared-pythoneda-domain = "^@pythonedaSharedPythonedaDomainVersion@"
+pythoneda-shared-domain = "^@pythonedaSharedDomainVersion@"
 
 [build-system]
 requires = ["poetry-core"]
